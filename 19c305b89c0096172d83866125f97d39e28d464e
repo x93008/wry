@@ -1,0 +1,23 @@
+src/wkwebview/class/url_scheme_handler.rs
+  82c64696ebe82b97 347-349
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.16",
+  "base_commit_sha": "19c305b89c0096172d83866125f97d39e28d464e",
+  "prompts": {
+    "82c64696ebe82b97": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1c09b9ebaffex7fmYqojjMQIma",
+        "model": "cchClaude/claude-sonnet-4-6"
+      },
+      "human_author": "lixingxin <lixingxin@cvte.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 11,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
