@@ -1,0 +1,37 @@
+src/wkwebview/class/url_scheme_handler.rs
+  82c64696ebe82b97 343-344,346
+  a3bf2f534c85fe9b 289,294-300
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.16",
+  "base_commit_sha": "715e0c3f82ec7e9ad75c1d6e592cff1a9f91a616",
+  "prompts": {
+    "82c64696ebe82b97": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1c09b9ebaffex7fmYqojjMQIma",
+        "model": "cchClaude/claude-sonnet-4-6"
+      },
+      "human_author": "lixingxin <lixingxin@cvte.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    },
+    "a3bf2f534c85fe9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_1c1cf13e7ffeix5v6BCN5g0GpI-cc49c07b-d4d9-4735-ae4b-81f863797bfb",
+        "model": "unknown"
+      },
+      "human_author": "x93008 <x93008@163.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
