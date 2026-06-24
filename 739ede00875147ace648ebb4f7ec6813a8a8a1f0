@@ -1,0 +1,64 @@
+src/webview2/mod.rs
+  d5c34bb123176b09 1289-1295
+  089d08ec766e3883 1199-1203
+  13bd4aa78adebb50 202-206
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.3",
+  "base_commit_sha": "739ede00875147ace648ebb4f7ec6813a8a8a1f0",
+  "prompts": {
+    "089d08ec766e3883": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_10d790353ffeGVS51qToo5bMmn-3981f91b-4e48-492e-bd2f-ad29a8b2ea7c",
+        "model": "unknown"
+      },
+      "human_author": "x93008 <x93008@163.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 0,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    },
+    "13bd4aa78adebb50": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_10d790353ffeGVS51qToo5bMmn-4d386e22-6242-48bd-8015-8bc4708bd4c5",
+        "model": "unknown"
+      },
+      "human_author": "x93008 <x93008@163.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 0,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    },
+    "a83fc0f5c21ea787": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_10d790353ffeGVS51qToo5bMmn-3ef38329-3aea-40b8-bcfd-07f6808d0f37",
+        "model": "unknown"
+      },
+      "human_author": "x93008 <x93008@163.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "d5c34bb123176b09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_10d790353ffeGVS51qToo5bMmn-1dccb90b-6306-41d6-8585-d85a75ff184e",
+        "model": "unknown"
+      },
+      "human_author": "x93008 <x93008@163.com>",
+      "messages": [],
+      "total_additions": 9,
+      "total_deletions": 9,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
